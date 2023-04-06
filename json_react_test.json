@@ -1,0 +1,28 @@
+[
+    {
+        "img" : "https://i.pinimg.com/564x/7c/3e/86/7c3e86770f892ae9a868c6d4989303b8.jpg",
+        "ID": "1",
+        "name": "NES",
+        "description": "NES con un control, joystick, transformador y cable A/V"
+        "precio" : 50 
+        
+        },
+        
+        
+       {
+        "img" : "https://i.pinimg.com/564x/7c/3e/86/7c3e86770f892ae9a868c6d4989303b8.jpg",
+        "ID": "2",
+        "name": "Super Nintendo",
+        "description": "Super Nintendo con un control, joystick, transformador y cable A/V"
+        "precio" : 100 
+        
+        },
+      {
+        "img" : "https://i.pinimg.com/564x/7c/3e/86/7c3e86770f892ae9a868c6d4989303b8.jpg",
+        "ID": "3",
+        "name": "Nintendo 64",
+        "description": "Nintendo 64 con un control, joystick, transformador y cable A/V"
+        "precio" : 150 
+        
+        },
+]
