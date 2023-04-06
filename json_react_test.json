@@ -3,7 +3,7 @@
         "img" : "https://github.com/luisemiliopizzolanti/json_test/blob/main/nes.jpg?raw=true",
         "ID": "1",
         "name": "NES",
-        "description": "NES con un control, joystick, transformador y cable A/V"
+        "description": "NES con un control, joystick, transformador y cable A/V",
         "precio" : 50 
         
         },
@@ -12,7 +12,7 @@
         "img" : "https://github.com/luisemiliopizzolanti/json_test/blob/main/snes.jpg?raw=true",
         "ID": "2",
         "name": "Super Nintendo",
-        "description": "Super Nintendo con un control, joystick, transformador y cable A/V"
+        "description": "Super Nintendo con un control, joystick, transformador y cable A/V",
         "precio" : 100 
         
         },
@@ -20,7 +20,7 @@
         "img" : "https://github.com/luisemiliopizzolanti/json_test/blob/main/n64.jpg?raw=true",
         "ID": "3",
         "name": "Nintendo 64",
-        "description": "Nintendo 64 con un control, joystick, transformador y cable A/V"
+        "description": "Nintendo 64 con un control, joystick, transformador y cable A/V",
         "precio" : 150 
         
         }
